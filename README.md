@@ -74,7 +74,8 @@ cd ..
 | `docs/AGENT_BUILD_PROCESS.md` | 智能体构建关键过程文档 |
 | `docs/PITFALLS_AND_SOLUTIONS.md` | 踩过的坑与解决方案 |
 | `docs/RESUME_AND_PORTFOLIO.md` | 项目介绍与简历材料 |
-| `docs/LumiaOCR-v1.0-项目介绍.html` | 可离线打开的项目介绍 HTML |
+| `docs/LumiaOCR-v1.0-project-introduction.html` | 可离线打开的项目介绍 HTML，GitHub 稳定英文路径 |
+| `docs/LumiaOCR-v1.0-项目介绍.html` | 本地中文文件名备份 |
 
 ## 注意事项
 
